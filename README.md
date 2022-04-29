@@ -3,4 +3,6 @@ The textures are tiling and work best with cubemap projecttion.
 The hdr is a black and white low res that runs fast as and HDRI IBL on most devices. 
 Feel free to use, integrate or modify as you see fit.
 
-if you setup everything correctly, it should look like this 
+if you setup everything correctly, it should look like this (assuming you are using ambient occlusion)
+
+ ![Spiraloid]( https://github.com/spiraloid/Spiraloid--Art-Materials/blob/main/Thumbnail.png)
