@@ -8,4 +8,6 @@ notes:
 * The hdr is a black and white low res that runs fast as and HDRI IBL on most devices. 
 * if you setup everything correctly, it should look like this (assuming you are using ambient occlusion)
 
+ ![Spiraloid2]( https://github.com/spiraloid/Spiraloid--Art-Materials/blob/main/Thumbnail_2.png)
+ ![Spiraloid3]( https://github.com/spiraloid/Spiraloid--Art-Materials/blob/main/Thumbnail.gif)
  ![Spiraloid]( https://github.com/spiraloid/Spiraloid--Art-Materials/blob/main/Thumbnail.png)
