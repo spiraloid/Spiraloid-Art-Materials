@@ -1,4 +1,4 @@
-These are my workshop PBR materials for Clay and Plywood that I use when sculpting in real-time in various apps. 
+These are my workshop PBR materials for Clay and Plywood that I use when sculpting in real-time in various apps. Perfect for voxel sculpting.
 
 Feel free to use, integrate or modify as you see fit.
 
